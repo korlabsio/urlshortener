@@ -1,0 +1,173 @@
+###############################################################
+# Comments start with "#"
+# Ignore all the comment lines
+# last_update: 2022-04-08
+# The file contains all the URL shortener websites
+# This file only contains the working ones,
+# so if a website goes down, we will remove it from the list.
+# Note: This list only contains domain names of the final shortened URL.
+# For example, bitly.com is a URL shortener website but the final
+# shortened URL is bit.ly/blahblah. Therefore, bit.ly is in the list
+# but bitly.com is not in the list.
+# start of the list:
+###############################################################
+0rz.tw
+1un.fr
+1url.cz
+shrunken.com
+p.asia
+g.asia
+3.ly
+0.gp
+2.ly
+4.gp
+4.ly
+6.ly
+7.ly
+8.ly
+9.ly
+2.gp
+6.gp
+5.gp
+ur3.us
+bitly.com
+2doc.net
+alturl.com
+2tu.us
+5z8.info
+link.ac
+a0.fr
+adf.ly
+bc.vc
+bit.do
+bit.ly
+ko.gl
+wa.gl
+kr.pe
+baro.lk
+me2.kr
+url.vet
+boa.la
+urls.kr
+linkdl.kr
+blap.net
+br4.in
+bzh.me
+cc.cc
+cutt.ly
+cutt.us
+dd.ma
+droid.ws
+forms.gle
+gg.gg
+hoy.kr
+href.li
+ow.ly
+ht.ly
+icit.fr
+b2n.ir
+yun.ir
+iwo.ir
+1ea.ir
+l2o.ir
+plink.ir
+rizy.ir
+zaya.io
+adr3.ir
+akoo.ir
+cuur.ir
+twlink.ir
+icks.ro
+is.gd
+ity.im
+fumacrom.com
+jdem.cz
+kutt.it
+lc.cx
+lnk.sk
+oe.cd
+ppt.cc
+rb.gy
+redir.ec
+reurl.cc
+sdu.sk
+0a.sk
+5du.pl
+skrat.it
+xn--a-4ka.eu
+gestyy.com
+sh.st
+shorturl.at
+urlz.com
+short.gy
+swiy.co
+switchy.io
+han.gl
+tiny.cc
+tiny.pl
+tinyurl.com
+rotf.lol
+tiny.one
+tinyurl.hu
+t.hk.uy
+qq.cn.hn
+dwz.date
+cn.hk.uy
+tb.cn.hn
+dwz.win
+x88.ltd
+jd.cn.hn
+skr.sk
+t2mio.com
+go.ly
+to.ly
+tpmr.com
+u.to
+urls.fr
+urlz.fr
+urlzs.com
+v.ht
+v.gd
+utfg.sk
+vo.la
+vzturl.com
+waa.ai
+xrl.us
+zzb.bz
+vd55.com
+vbly.us
+t.ly
+# clicky.me (maintenance mode)
+bl.ink
+rebrand.ly
+buff.ly
+bitly.kr
+asq.kr
+lh.ms
+# btfy.io (DNS Error)
+acortar.link
+n9.cl
+shorte.st
+paps.jq
+# wl.co registered by RegistrarSafe in 2010 belogns to whatsapp,
+# it's a redirector not a shortener
+wl.co
+bre.is
+snip.ly
+# this is a barcode generator works the same way as url shortener
+qrs.ly
+ibit.ly
+sur.ly
+simp.ly
+vk.sv
+jio.sh
+ouo.io
+ouo.press
+uclck.me
+urlo.in
+link.gy
+linklyhq.com
+lnkiy.in
+3c5.com
+9k.gg
+shorturl.ae
