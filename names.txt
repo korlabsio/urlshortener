@@ -115,7 +115,7 @@ dwz.date
 cn.hk.uy
 tb.cn.hn
 dwz.win
-x88.ltd
+# x88.ltd (NXDOMAIN)
 jd.cn.hn
 skr.sk
 t2mio.com
@@ -143,12 +143,12 @@ rebrand.ly
 buff.ly
 bitly.kr
 asq.kr
-lh.ms
+# lh.ms (NXDOMAIN)
 # btfy.io (DNS Error)
 acortar.link
 n9.cl
 shorte.st
-paps.jq
+# paps.jq (NXDOMAIN)
 # wl.co registered by RegistrarSafe in 2010 belogns to whatsapp,
 # it's a redirector not a shortener
 wl.co
