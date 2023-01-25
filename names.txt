@@ -201,3 +201,5 @@ l-ink.me
 peek.link
 s.id
 shrtco.de
+pixly.me
+pixly.link
