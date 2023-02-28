@@ -206,3 +206,4 @@ pixly.link
 2ww.me
 t.co
 hm.ru
+lnk.to
