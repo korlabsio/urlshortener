@@ -33,5 +33,10 @@ cd test
 python3 test.py ../names.txt | grep -v "NOERROR"
 ```
 
+### No duplicate entry
 
+Run this in bash
+```bash
+cat names.txt | sort | uniq -c | grep -E '\S*1.*' -v
+```
 
