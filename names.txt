@@ -206,3 +206,4 @@ pixly.link
 t.co
 hm.ru
 lnk.to
+zpr.io
