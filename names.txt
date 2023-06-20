@@ -214,3 +214,4 @@ bujo.li
 did.li
 nfw.cz
 tt.vg
+linkfly.to
