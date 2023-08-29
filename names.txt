@@ -218,3 +218,4 @@ linkfly.to
 urlis.net
 bitly.ws
 appurl.io
+shiny.link
