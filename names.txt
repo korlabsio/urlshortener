@@ -219,3 +219,4 @@ urlis.net
 bitly.ws
 appurl.io
 shiny.link
+cuttt.ink
