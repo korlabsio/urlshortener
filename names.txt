@@ -220,3 +220,4 @@ bitly.ws
 appurl.io
 shiny.link
 cuttt.ink
+bitly.lc
