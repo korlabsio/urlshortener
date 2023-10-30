@@ -221,3 +221,4 @@ appurl.io
 shiny.link
 cuttt.ink
 bitly.lc
+ln.run
