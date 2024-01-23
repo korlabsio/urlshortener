@@ -225,3 +225,5 @@ ln.run
 sqzr.cz
 lnwlink.com
 eduf.it
+swll.to
+gtly.to
