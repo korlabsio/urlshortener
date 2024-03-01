@@ -231,3 +231,4 @@ lnkz.at
 idm.in
 d.yzh.li
 trimmer.to
+shorten.is
