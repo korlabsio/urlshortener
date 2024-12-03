@@ -234,3 +234,4 @@ trimmer.to
 shorten.is
 s3r.io
 qrco.de
+dub.sh
