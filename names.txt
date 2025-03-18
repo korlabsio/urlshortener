@@ -1,7 +1,7 @@
 ###############################################################
 # Comments start with "#"
 # Ignore all the comment lines
-# last_update: 2022-09-02
+# last_update: 2025-03-18
 # The file contains all the URL shortener websites
 # This file only contains the working ones,
 # so if a website goes down, we will remove it from the list.
@@ -235,3 +235,4 @@ shorten.is
 s3r.io
 qrco.de
 dub.sh
+s.ee
